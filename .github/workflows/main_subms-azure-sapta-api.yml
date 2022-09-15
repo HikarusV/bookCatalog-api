@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'subms-azure-sapta-api'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BDE189B584004BD6B36289C4C09CC685 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5CE11882AA824CDB9644D04CF5E98272 }}
           package: .
